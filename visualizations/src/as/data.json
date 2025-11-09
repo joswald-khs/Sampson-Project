@@ -1,0 +1,302 @@
+[
+  {
+    "station_id": 0,
+    "temperature": 20.68773078918457,
+    "humidity": 46.31337356567383,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 1,
+    "temperature": 20.45912742614746,
+    "humidity": 45.02997589111328,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 2,
+    "temperature": 20.78236198425293,
+    "humidity": 30.845661163330078,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 3,
+    "temperature": 26.75454330444336,
+    "humidity": 44.93152618408203,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 4,
+    "temperature": 24.079517364501953,
+    "humidity": 49.06723403930664,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 5,
+    "temperature": 25.01629638671875,
+    "humidity": 48.88813018798828,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 6,
+    "temperature": 24.418975830078125,
+    "humidity": 33.623374938964844,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 7,
+    "temperature": 22.78502655029297,
+    "humidity": 45.88714599609375,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 8,
+    "temperature": 27.43437385559082,
+    "humidity": 40.897216796875,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 9,
+    "temperature": 23.265201568603516,
+    "humidity": 38.677268981933594,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 10,
+    "temperature": 20.677570343017578,
+    "humidity": 46.9162483215332,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 11,
+    "temperature": 22.749263763427734,
+    "humidity": 38.66013717651367,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 12,
+    "temperature": 27.176143646240234,
+    "humidity": 36.05224609375,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 13,
+    "temperature": 20.894214630126953,
+    "humidity": 49.56004333496094,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 14,
+    "temperature": 17.50738525390625,
+    "humidity": 32.54606246948242,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 15,
+    "temperature": 25.488391876220703,
+    "humidity": 43.80603790283203,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 16,
+    "temperature": 19.53171157836914,
+    "humidity": 30.10344886779785,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 17,
+    "temperature": 25.05026626586914,
+    "humidity": 32.50959396362305,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 18,
+    "temperature": 18.226850509643555,
+    "humidity": 42.890010833740234,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 19,
+    "temperature": 19.113887786865234,
+    "humidity": 48.574729919433594,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 20,
+    "temperature": 17.753101348876953,
+    "humidity": 34.019386291503906,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 21,
+    "temperature": 23.770816802978516,
+    "humidity": 43.55958938598633,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 22,
+    "temperature": 22.782238006591797,
+    "humidity": 40.95726013183594,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 23,
+    "temperature": 20.896230697631836,
+    "humidity": 49.70338821411133,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 24,
+    "temperature": 20.483760833740234,
+    "humidity": 46.09675216674805,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 25,
+    "temperature": 26.724946975708008,
+    "humidity": 37.88862991333008,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 26,
+    "temperature": 23.798904418945312,
+    "humidity": 44.1013298034668,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 27,
+    "temperature": 22.345306396484375,
+    "humidity": 45.635154724121094,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 28,
+    "temperature": 19.084108352661133,
+    "humidity": 43.52696990966797,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 29,
+    "temperature": 26.326385498046875,
+    "humidity": 33.49308395385742,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 30,
+    "temperature": 27.88219451904297,
+    "humidity": 40.85372543334961,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 31,
+    "temperature": 25.714801788330078,
+    "humidity": 36.95083999633789,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 32,
+    "temperature": 21.91394805908203,
+    "humidity": 41.57041549682617,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 33,
+    "temperature": 26.956138610839844,
+    "humidity": 49.300010681152344,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 34,
+    "temperature": 22.979663848876953,
+    "humidity": 30.61827278137207,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 35,
+    "temperature": 26.884552001953125,
+    "humidity": 30.46096420288086,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 36,
+    "temperature": 21.845802307128906,
+    "humidity": 47.62655258178711,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 37,
+    "temperature": 23.5509033203125,
+    "humidity": 40.794517517089844,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 38,
+    "temperature": 19.56447410583496,
+    "humidity": 39.344364166259766,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 39,
+    "temperature": 18.64021110534668,
+    "humidity": 47.19071578979492,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 40,
+    "temperature": 26.653287887573242,
+    "humidity": 49.929542541503906,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 41,
+    "temperature": 23.175764083862305,
+    "humidity": 32.58356475830078,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 42,
+    "temperature": 24.941770553588867,
+    "humidity": 30.801355361938477,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 43,
+    "temperature": 21.77880859375,
+    "humidity": 47.40056610107422,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 44,
+    "temperature": 17.382524490356445,
+    "humidity": 46.165374755859375,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 45,
+    "temperature": 25.40573501586914,
+    "humidity": 41.79084777832031,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 46,
+    "temperature": 23.115692138671875,
+    "humidity": 42.70520782470703,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 47,
+    "temperature": 19.221675872802734,
+    "humidity": 46.82032012939453,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 48,
+    "temperature": 20.372215270996094,
+    "humidity": 35.99793243408203,
+    "timestamp": "0000000290"
+  },
+  {
+    "station_id": 49,
+    "temperature": 24.390504837036133,
+    "humidity": 38.77510070800781,
+    "timestamp": "0000000290"
+  }
+]

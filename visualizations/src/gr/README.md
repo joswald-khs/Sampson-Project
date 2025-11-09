@@ -1,1 +1,1 @@
-
+In my data visualization I represented the "inside" data as well as the "outside" data and gave scales and titles to each axis of the line graph. I learned more about the 'map' function and other functions for scale and representing data points. I was not quite able to figure out how to represent a data point when you hover over it with the mouse so if I were to improve my visualization I think it would be to do that. 

@@ -1,1 +1,1 @@
-Currently translating the random data generator into JSON.
+This is a line chart that shows the relationship between heat and humidity. The chart has two lines, one for heat and one for humidity. I used two y axes to represent their different measurement scales. The x-axis displays the room numbers, as all measurements were taken simultaneously. The users can interact with it by hovering over the line, and it will show the temperature or humidity on it.

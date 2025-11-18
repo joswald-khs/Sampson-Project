@@ -1,0 +1,42 @@
+#include <temp.pb.h>
+#include <Modulino.h>
+#include <pb_common.h>
+#include <pb.h>
+#include <pb_encode.h>
+#include <pb_decode.h>
+ModulinoThermo thermo;
+const char* addr     = "<Server-IP";
+const uint16_t port  = 10101;
+void setup(){Serial.begin(9600);
+
+// Call all necessary .begin() function
+Modulino.begin();
+thermo.begin();}
+
+void loop() { 
+ float celsius = thermo.getTemperature();
+
+float humidity = thermo.getHumidity();
+    
+  pb_TempEvent temp = pb_TempEvent_init_zero;
+  temp.deviceId = 12;
+  temp.timestamp = 100;
+  temp.status = true
+  temp.humidity = humidity;
+  temp.temp = fahrenheit;
+  temp.batteryLevel = 100;
+  
+  sendTemp(temp);
+
+ 
+}
+void sendTemp(pb_TempEvent e) {
+  uint8_t buffer[128];
+  pb_ostream_t stream = pb_ostream_from_buffer(buffer, ...);
+  
+  if (!pb_encode(&stream, pb_TempEvent_fields, &e)){
+    Serial.println("failed to encode temp proto");
+    return;
+  }
+  client.write(buffer, stream.bytes_written);
+}
